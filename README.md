@@ -58,13 +58,11 @@ Une fois le fichier repéré et sélectionné, le champ « Emplacement du fichie
 connectez-vous sur votre site internet.
 http://localhost/volapppart-2/identification.php
 * pour une accéss admin : 
-email    : admin@gmail.com
-password : Admin
+email    : zak@mail.co
+password : user@1234
 * pour une accéss utilisateur :
-email    : jack@gmail.com 
-password : jack
+email    : aboulfathnev@gmail.com
+password : zikos00@
 
 
-## 2
-Pour plus d'explications sur ce code ,
-contactez-moi sur l'e-mail: younessdeveloper@gmaiL.com
+
